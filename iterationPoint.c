@@ -23,6 +23,8 @@
 /* old player thing done. ONLY THING REMAINING IS DELETION OF PLAYER DATA */
 /* ---------------------------------------------------------------------- */
 
+//comment
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
